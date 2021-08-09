@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color: gainsboro;
+
+}
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.header .logo {
+    max-width: 120px;
+}
+
+.header .title-group{
+    padding-left: 25px;
+}
+.header .title-group{
+    padding-right: 10px;
+}
